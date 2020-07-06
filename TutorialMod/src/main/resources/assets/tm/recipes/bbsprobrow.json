@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OOO",
+        "BTB",
+        "TRT"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:orange_wool"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:black_wool"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:white_terracotta"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:rose_red"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:ruby_axe",
+        "count": 1
+    }
+}
